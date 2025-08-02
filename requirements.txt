@@ -1,0 +1,10 @@
+tensorflow==2.19.0
+tf-keras
+deepface
+mediapipe
+opencv-python
+streamlit
+pandas
+scipy
+numpy
+playsound==1.3.0
