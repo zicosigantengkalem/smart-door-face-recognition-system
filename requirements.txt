@@ -4,4 +4,3 @@ face-recognition==1.3.0
 ultralytics==8.2.19
 pandas
 numpy
-playsound==1.2.2
