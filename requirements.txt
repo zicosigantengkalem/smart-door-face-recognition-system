@@ -4,7 +4,5 @@ face-recognition==1.3.0
 ultralytics==8.2.35
 numpy==1.26.4
 pandas==2.2.2
-# Menginstal dlib dari wheel yang sudah dikompilasi
 dlib==19.24.2
-# Menginstal torch versi CPU yang kompatibel
 torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
